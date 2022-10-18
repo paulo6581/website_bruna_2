@@ -1,0 +1,47 @@
+.section-container{
+    background:url(/img/BACKGROUND\ Q1.png)
+    no-repeat right center/cover;
+    height: 90vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.section-2{
+    align-content: center;
+}
+
+.section-2-container{
+    display: inline-block;
+    width: 70%;
+    
+}
+
+.section-2-container img{
+    margin-top: 7%;
+}
+
+.section-2-container h2{
+    font-size: 3em;
+
+
+}
+
+.textoq2 p{
+    font-size: 1em;
+    color:#0451af ;
+    padding: 10px;
+}
+
+.texto-3 p {
+    color: black;
+}
+
+h3{
+    font-size: 1em;
+
+}
+
+.texto-1 p {
+    font-size: 0.7em;
+}
